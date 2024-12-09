@@ -9,6 +9,6 @@
 
 🧙 -  Contribution guidelines - Each project will contain its contribution guide
 
-👩‍💻 - Useful resources - https://developers.nimbasms.com
+👩‍💻 - Useful resources - https://developers.nimbasms.com - https://opensource.nimbasms.com/
 
 We look forward to receiving your pull request.
