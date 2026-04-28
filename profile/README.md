@@ -10,6 +10,7 @@
 🧙 -  Contribution guidelines - Each project will contain its contribution guide
 
 👩‍💻 - Useful resources
+- https://mcp.nimbasms.com/ (MCP Server)
 - https://developers.nimbasms.com 
 - https://opensource.nimbasms.com/
 - https://simulator.nimbasms.com/
