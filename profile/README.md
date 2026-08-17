@@ -15,8 +15,13 @@
 - https://opensource.nimbasms.com/
 - https://simulator.nimbasms.com/
 - https://www.nimbasms.com
+
+**Integration**
+
 - https://n8n.io/integrations/nimba-sms/
 - https://www.make.com/en/integrations/nimbasms
 - https://zapier.com/apps/nimba-sms/integrations
+- https://wordpress.org/plugins/nimbasms
+- https://extensions.dev/extensions/nimbasmsapi/nimbasmsapi
 
 We look forward to receiving your pull request.
